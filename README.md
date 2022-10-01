@@ -10,3 +10,5 @@ URL: https://random-data-api.com/api/v2/users
 
 ### Load & Stress Testing Report:  
 https://docs.google.com/spreadsheets/d/1FQErPy_Rn-RmIPbkmtDJ0_USD4LNJEi9PV5Xn7EUUDg/edit?usp=sharing
+![image](https://user-images.githubusercontent.com/68651125/193415792-799fef42-c18f-4618-bb2b-79fec987e3b7.png)
+
