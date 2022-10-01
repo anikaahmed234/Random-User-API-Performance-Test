@@ -8,4 +8,5 @@ URL: https://random-data-api.com/api/v2/users
 
 2. Find out the bottleneck/stress test point. (At which point the system starts to show 1% error) 
 
-### Load & Stress Testing Report:
+### Load & Stress Testing Report:  
+https://docs.google.com/spreadsheets/d/1FQErPy_Rn-RmIPbkmtDJ0_USD4LNJEi9PV5Xn7EUUDg/edit?usp=sharing
